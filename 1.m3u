@@ -67,6 +67,12 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002055/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
+http://171.88.35.94:4000/udp/239.93.1.9:2192
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
+http://171.88.35.94:4000/udp/239.93.1.4:2191
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
+http://180.142.145.135:8181/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -271,3 +277,34 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000058/index.
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车/" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="IHOT频道",爱赛车
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+#EXTINF:-1 group-title="虎牙轮播",林正英
+http://cfss.cc/cdn/hy/11342421.flv
+#EXTINF:-1 group-title="虎牙轮播",刘德华
+http://cfss.cc/cdn/hy/11342424.flv
+#EXTINF:-1 group-title="虎牙轮播",许氏三杰
+http://cfss.cc/cdn/hy/11602033.flv
+#EXTINF:-1 group-title="虎牙轮播",周润发
+http://cfss.cc/cdn/hy/11342387.flv
+#EXTINF:-1 group-title="虎牙轮播",周星驰
+http://cfss.cc/cdn/hy/11342412.flv
+#EXTINF:-1 group-title="虎牙轮播",成龙
+http://cfss.cc/cdn/hy/11342386.flv
+#EXTINF:-1 group-title="虎牙轮播",李连杰
+http://cfss.cc/cdn/hy/11342390.flv
+#EXTINF:-1 group-title="虎牙轮播",黄渤
+http://cfss.cc/cdn/hy/11352876.flv
+#EXTINF:-1 group-title="虎牙轮播",洪金宝
+http://cfss.cc/cdn/hy/11279251.flv
+#EXTINF:-1 group-title="虎牙轮播",古天乐
+http://cfss.cc/cdn/hy/11602041.flv
+#EXTINF:-1 group-title="虎牙轮播",徐克
+http://cfss.cc/cdn/hy/11352909.flv
+#EXTINF:-1 group-title="虎牙轮播",五福星
+http://cfss.cc/cdn/hy/11282233.flv
+#EXTINF:-1 group-title="虎牙轮播",徐峥
+http://cfss.cc/cdn/hy/11602043.flv
+#EXTINF:-1 group-title="虎牙轮播",沈腾
+http://cfss.cc/cdn/hy/11601968.flv
+#EXTINF:-1 group-title="虎牙轮播",邱淑贞
+http://cfss.cc/cdn/hy/11352949.flv
+#EXTINF:-1 group-title="港台频道",HBO台 http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcbeywejweefshjfhhjsjjcxhbo.flv
