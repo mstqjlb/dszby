@@ -71,8 +71,6 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002065/index.m3
 http://171.88.35.94:4000/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
 http://171.88.35.94:4000/udp/239.93.1.4:2191
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
-mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -189,6 +187,40 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="卫视频道",武术世界
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
+#EXTINF:-1,tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南都市.png" group-title="📺 河南频道",河南都市
+http://v.vlanl.com:4022/udp/225.1.4.52:1081
+#EXTINF:-1,tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南民生.png" group-title="📺 河南频道",河南民生
+http://v.vlanl.com:4022/udp/225.1.4.53:1082
+#EXTINF:-1,tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南法治.png" group-title="📺 河南频道",河南法治
+http://v.vlanl.com:4022/udp/225.1.4.54:1083
+#EXTINF:-1,tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南电视剧.png" group-title="📺 河南频道",河南电视剧
+http://v.vlanl.com:4022/udp/225.1.4.55:1084
+#EXTINF:-1,tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南新闻.png" group-title="📺 河南频道",河南新闻
+http://v.vlanl.com:4022/udp/225.1.4.56:1085
+#EXTINF:-1,tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南公共.png" group-title="📺 河南频道",河南公共
+http://v.vlanl.com:4022/udp/225.1.4.58:1087
+#EXTINF:-1,tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南乡村.png" group-title="📺 河南频道",河南乡村
+http://v.vlanl.com:4022/udp/225.1.4.120:1149
+#EXTINF:-1,tvg-id="河南国际" tvg-name="河南国际" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南国际.png" group-title="📺 河南频道",河南国际
+http://v.vlanl.com:4022/udp/225.1.4.102:1131
+#EXTINF:-1,tvg-id="河南戏曲" tvg-name="河南戏曲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南戏曲.png" group-title="📺 河南频道",河南戏曲
+http://v.vlanl.com:4022/udp/225.1.4.99:1128
+#EXTINF:-1,tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南收藏天下.png" group-title="📺 河南频道",收藏天下
+http://v.vlanl.com:4022/udp/225.1.4.100:1129
+#EXTINF:-1,tvg-id="中华功夫" tvg-name="河南功夫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南中华功夫.png" group-title="📺 河南频道",中华功夫
+http://v.vlanl.com:4022/udp/225.1.4.101:1130
+#EXTINF:-1,tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南睛彩中原.png" group-title="📺 河南频道",睛彩中原
+http://v.vlanl.com:4022/udp/225.1.4.163:1203
+#EXTINF:-1,tvg-id="移动戏曲" tvg-name="河南移动戏曲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南移动戏曲.png" group-title="📺 河南频道",移动戏曲
+http://v.vlanl.com:4022/udp/225.1.4.206:1254
+#EXTINF:-1,tvg-id="移动电视" tvg-name="河南移动电视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南移动电视.png" group-title="📺 河南频道",移动电视
+http://v.vlanl.com:4022/udp/225.1.5.40:1350
+#EXTINF:-1,tvg-id="健康河南" tvg-name="河南健康" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/健康河南.png" group-title="📺 河南频道",健康河南
+http://v.vlanl.com:4022/udp/225.1.5.48:1358
+#EXTINF:-1,tvg-id="河南导视" tvg-name="河南导视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/河南导视.png" group-title="📺 河南频道",河南导视
+http://v.vlanl.com:4022/udp/225.1.4.194:1244
+#EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/国学频道.png" group-title="📺 河南频道",国学频道
+http://v.vlanl.com:4022/udp/225.1.4.196:1311
 #EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="求索系列",求索记录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="求索系列",求索动物
