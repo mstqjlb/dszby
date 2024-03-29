@@ -267,3 +267,33 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000058/index.
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="IHOT爱赛车" tvg-name="IHOT爱赛车/" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="IHOT频道",爱赛车
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+#EXTINF:-1 group-title="虎牙轮播",林正英
+http://cfss.cc/cdn/hy/11342421.flv
+#EXTINF:-1 group-title="虎牙轮播",刘德华
+http://cfss.cc/cdn/hy/11342424.flv
+#EXTINF:-1 group-title="虎牙轮播",许氏三杰
+http://cfss.cc/cdn/hy/11602033.flv
+#EXTINF:-1 group-title="虎牙轮播",周润发
+http://cfss.cc/cdn/hy/11342387.flv
+#EXTINF:-1 group-title="虎牙轮播",周星驰
+http://cfss.cc/cdn/hy/11342412.flv
+#EXTINF:-1 group-title="虎牙轮播",成龙
+http://cfss.cc/cdn/hy/11342386.flv
+#EXTINF:-1 group-title="虎牙轮播",李连杰
+http://cfss.cc/cdn/hy/11342390.flv
+#EXTINF:-1 group-title="虎牙轮播",黄渤
+http://cfss.cc/cdn/hy/11352876.flv
+#EXTINF:-1 group-title="虎牙轮播",洪金宝
+http://cfss.cc/cdn/hy/11279251.flv
+#EXTINF:-1 group-title="虎牙轮播",古天乐
+http://cfss.cc/cdn/hy/11602041.flv
+#EXTINF:-1 group-title="虎牙轮播",徐克
+http://cfss.cc/cdn/hy/11352909.flv
+#EXTINF:-1 group-title="虎牙轮播",五福星
+http://cfss.cc/cdn/hy/11282233.flv
+#EXTINF:-1 group-title="虎牙轮播",徐峥
+http://cfss.cc/cdn/hy/11602043.flv
+#EXTINF:-1 group-title="虎牙轮播",沈腾
+http://cfss.cc/cdn/hy/11601968.flv
+#EXTINF:-1 group-title="虎牙轮播",邱淑贞
+http://cfss.cc/cdn/hy/11352949.flv
