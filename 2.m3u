@@ -119,7 +119,8 @@ http://219.150.217.47:6610/PLTV1/760/index.m3u8?icpid=dxrm1
 http://219.150.217.47:6610/PLTV1/780/index.m3u8?icpid=dxrm1
 #EXTINF:-1 group-title="河南频道",国学频道
 http://219.150.217.47:6610/PLTV2/3720/index.m3u8?icpid=dxrm1
-#EXTINF:-1 group-title="河南频道",睛彩中原http://219.150.217.47:6610/PLTV1/700/index.m3u8?icpid=dxrm1
+#EXTINF:-1 group-title="河南频道",睛彩中原
+http://219.150.217.47:6610/PLTV1/700/index.m3u8?icpid=dxrm1
 #EXTINF:-1 group-title="河南频道",移动戏曲
 http://219.150.217.47:6610/PLTV1/800/index.m3u8?icpid=dxrm1
 #EXTINF:-1 group-title="河南频道",调解剧场
