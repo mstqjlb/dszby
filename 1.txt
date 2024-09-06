@@ -291,7 +291,8 @@ TVB娱乐新闻台,mitv://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6
 PopC,mitv://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043
 ViuTVsix,mitv://generationnexxxt.com:19806/b6f920891ad9473ca6f839df7616f580
 ViuTV,mitv://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae
-凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰资讯台,mitv://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
 凤凰香港台,mitv://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
 TVB星河,mitv://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6
