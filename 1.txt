@@ -1,4 +1,5 @@
 台湾,#genre#
+华视新闻,mitv://generationnexxxt.com:19806/ad4759ce4ff244efaa766154165e5d39
 民视新闻台,mitv://generationnexxxt.com:19806/96f9b2974a86449f9a6f881b4e23ca03
 台视新闻台,mitv://generationnexxxt.com:19806/3e72f4e960264195b41106221611a5a7
 中视新闻台,mitv://generationnexxxt.com:19806/75f4ea0339f14b62b1df49ede1723daa
@@ -52,7 +53,7 @@ TLC旅游生活,mitv://generationnexxxt.com:19806/32000d7eec2049c6b1de2eb8cd3c93
 ROCK Extreme,mitv://generationnexxxt.com:19806/337165af094e40b48fb6db958ffd1cdc
 
 寰宇新闻台,mitv://generationnexxxt.com:19806/33c00ed7adda475f9afe8adbd600bd9a
-华视新闻,mitv://generationnexxxt.com:19806/ad4759ce4ff244efaa766154165e5d39
+
 CN卡通频道,mitv://generationnexxxt.com:19806/7eb800b1540d4aab9365efc149622aa0
 NHK新闻资讯台,mitv://generationnexxxt.com:19806/6dd38f99d9ca484aa3f0a2a50f60ba0f
 美亚电影台HD,mitv://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0
