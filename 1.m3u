@@ -116,7 +116,7 @@ http://[2409:8087:74f0:22::5]:6410/270000001128/9900000115/index.m3u8?channel-id
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="卫视频道",黑莓电影
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000018
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="卫视频道",黑莓动画
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000096/index.m3u8
 #EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="求索系列",求索记录
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="求索系列",求索动物
@@ -125,86 +125,77 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="求索系列",求索生活
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="NewTv黑莓动画" tvg-name="NewTv黑莓动画" tvg-logo="https://live.fanmingming.com/tv/NewTv黑莓动画.png" group-title="通用网络ipv6",NewTv黑莓动画
-http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000096/index.m3u8
-#EXTINF:-1 tvg-id="NewTv爱情喜剧" tvg-name="NewTv爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NewTv爱情喜剧.png" group-title="通用网络ipv6",NewTv爱情喜剧
+
+#EXTINF:-1 tvg-id="NewTv爱情喜剧" tvg-name="NewTv爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NewTv爱情喜剧.png" group-title="NewTV系列",NewTv爱情喜剧
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000104/index.m3u8
-#EXTINF:-1 tvg-id="NewTv海外剧场" tvg-name="NewTv海外剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv海外剧场.png" group-title="通用网络ipv6",NewTv海外剧场
+#EXTINF:-1 tvg-id="NewTv海外剧场" tvg-name="NewTv海外剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv海外剧场.png" group-title="NewTV系列",NewTv海外剧场
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000115/index.m3u8
-#EXTINF:-1 tvg-id="NewTv中国功夫" tvg-name="NewTv中国功夫" tvg-logo="https://live.fanmingming.com/tv/NewTv中国功夫.png" group-title="通用网络ipv6",NewTv中国功夫
+#EXTINF:-1 tvg-id="NewTv中国功夫" tvg-name="NewTv中国功夫" tvg-logo="https://live.fanmingming.com/tv/NewTv中国功夫.png" group-title="NewTV系列",NewTv中国功夫
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000101/index.m3u8
-#EXTINF:-1 tvg-id="NewTv惊悚悬疑" tvg-name="NewTv惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NewTv惊悚悬疑.png" group-title="通用网络ipv6",NewTv惊悚悬疑
+#EXTINF:-1 tvg-id="NewTv惊悚悬疑" tvg-name="NewTv惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NewTv惊悚悬疑.png" group-title="NewTV系列",NewTv惊悚悬疑
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000113/index.m3u8
-#EXTINF:-1 tvg-id="NewTv精品大剧" tvg-name="NewTv精品大剧" tvg-logo="https://live.fanmingming.com/tv/NewTv精品大剧.png" group-title="通用网络ipv6",NewTv精品大剧
+#EXTINF:-1 tvg-id="NewTv精品大剧" tvg-name="NewTv精品大剧" tvg-logo="https://live.fanmingming.com/tv/NewTv精品大剧.png" group-title="NewTV系列",NewTv精品大剧
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000100/index.m3u8
-#EXTINF:-1 tvg-id="NewTv精品纪录" tvg-name="NewTv精品纪录" tvg-logo="https://live.fanmingming.com/tv/NewTv精品纪录.png" group-title="通用网络ipv6",NewTv精品纪录
+#EXTINF:-1 tvg-id="NewTv精品纪录" tvg-name="NewTv精品纪录" tvg-logo="https://live.fanmingming.com/tv/NewTv精品纪录.png" group-title="NewTV系列",NewTv精品纪录
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000109/index.m3u8
-#EXTINF:-1 tvg-id="NewTv精品萌宠" tvg-name="NewTv精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NewTv精品萌宠.png" group-title="通用网络ipv6",NewTv精品萌宠
+#EXTINF:-1 tvg-id="NewTv精品萌宠" tvg-name="NewTv精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NewTv精品萌宠.png" group-title="NewTV系列",NewTv精品萌宠
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000122/index.m3u8
-#EXTINF:-1 tvg-id="NewTv明星大片" tvg-name="NewTv明星大片" tvg-logo="https://live.fanmingming.com/tv/NewTv明星大片.png" group-title="通用网络ipv6",NewTv明星大片
+#EXTINF:-1 tvg-id="NewTv明星大片" tvg-name="NewTv明星大片" tvg-logo="https://live.fanmingming.com/tv/NewTv明星大片.png" group-title="NewTV系列",NewTv明星大片
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000116/index.m3u8
-#EXTINF:-1 tvg-id="NewTv精品体育" tvg-name="NewTv精品体育" tvg-logo="https://live.fanmingming.com/tv/NewTv精品体育.png" group-title="通用网络ipv6",NewTv精品体育
+#EXTINF:-1 tvg-id="NewTv精品体育" tvg-name="NewTv精品体育" tvg-logo="https://live.fanmingming.com/tv/NewTv精品体育.png" group-title="NewTV系列",NewTv精品体育
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000102/index.m3u8
-#EXTINF:-1 tvg-id="NewTv军旅剧场" tvg-name="NewTv军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv军旅剧场.png" group-title="通用网络ipv6",NewTv军旅剧场
+#EXTINF:-1 tvg-id="NewTv军旅剧场" tvg-name="NewTv军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv军旅剧场.png" group-title="NewTV系列",NewTv军旅剧场
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000107/index.m3u8
-#EXTINF:-1 tvg-id="NewTv军事评论" tvg-name="NewTv军事评论" tvg-logo="https://live.fanmingming.com/tv/NewTv军事评论.png" group-title="通用网络ipv6",NewTv军事评论
+#EXTINF:-1 tvg-id="NewTv军事评论" tvg-name="NewTv军事评论" tvg-logo="https://live.fanmingming.com/tv/NewTv军事评论.png" group-title="NewTV系列",NewTv军事评论
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000110/index.m3u8
-#EXTINF:-1 tvg-id="NewTv农业致富" tvg-name="NewTv农业致富" tvg-logo="https://live.fanmingming.com/tv/NewTv农业致富.png" group-title="通用网络ipv6",NewTv农业致富
+#EXTINF:-1 tvg-id="NewTv农业致富" tvg-name="NewTv农业致富" tvg-logo="https://live.fanmingming.com/tv/NewTv农业致富.png" group-title="NewTV系列",NewTv农业致富
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000111/index.m3u8
-#EXTINF:-1 tvg-id="NewTv动作电影" tvg-name="NewTv动作电影" tvg-logo="https://live.fanmingming.com/tv/NewTv动作电影.png" group-title="通用网络ipv6",NewTv动作电影
+#EXTINF:-1 tvg-id="NewTv动作电影" tvg-name="NewTv动作电影" tvg-logo="https://live.fanmingming.com/tv/NewTv动作电影.png" group-title="NewTV系列",NewTv动作电影
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000106/index.m3u8
-#EXTINF:-1 tvg-id="NewTv超级电视剧" tvg-name="NewTv超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NewTv超级电视剧.png" group-title="通用网络ipv6",NewTv超级电视剧
+#EXTINF:-1 tvg-id="NewTv超级电视剧" tvg-name="NewTv超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NewTv超级电视剧.png" group-title="NewTV系列",NewTv超级电视剧
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000022/index.m3u8
-#EXTINF:-1 tvg-id="NewTv超级电影" tvg-name="NewTv超级电影" tvg-logo="https://live.fanmingming.com/tv/NewTv超级电影.png" group-title="通用网络ipv6",NewTv超级电影
+#EXTINF:-1 tvg-id="NewTv超级电影" tvg-name="NewTv超级电影" tvg-logo="https://live.fanmingming.com/tv/NewTv超级电影.png" group-title="NewTV系列",NewTv超级电影
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000021/index.m3u8
-#EXTINF:-1 tvg-id="NewTv古装剧场" tvg-name="NewTv古装剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv古装剧场.png" group-title="通用网络ipv6",NewTv古装剧场
+#EXTINF:-1 tvg-id="NewTv古装剧场" tvg-name="NewTv古装剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv古装剧场.png" group-title="NewTV系列",NewTv古装剧场
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000105/index.m3u8
-#EXTINF:-1 tvg-id="NewTv超级体育" tvg-name="NewTv超级体育" tvg-logo="https://live.fanmingming.com/tv/NewTv超级体育.png" group-title="通用网络ipv6",NewTv超级体育
+#EXTINF:-1 tvg-id="NewTv超级体育" tvg-name="NewTv超级体育" tvg-logo="https://live.fanmingming.com/tv/NewTv超级体育.png" group-title="NewTV系列",NewTv超级体育
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000020/index.m3u8
-#EXTINF:-1 tvg-id="NewTv超级综艺" tvg-name="NewTv超级综艺" tvg-logo="https://live.fanmingming.com/tv/NewTv超级综艺.png" group-title="通用网络ipv6",NewTv超级综艺
+#EXTINF:-1 tvg-id="NewTv超级综艺" tvg-name="NewTv超级综艺" tvg-logo="https://live.fanmingming.com/tv/NewTv超级综艺.png" group-title="NewTV系列",NewTv超级综艺
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000019/index.m3u8
-#EXTINF:-1 tvg-id="NewTv潮妈辣婆" tvg-name="NewTv潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/NewTv潮妈辣婆.png" group-title="通用网络ipv6",NewTv潮妈辣婆
+#EXTINF:-1 tvg-id="NewTv潮妈辣婆" tvg-name="NewTv潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/NewTv潮妈辣婆.png" group-title="NewTV系列",NewTv潮妈辣婆
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000099/index.m3u8
-#EXTINF:-1 tvg-id="NewTv家庭剧场" tvg-name="NewTv家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv家庭剧场.png" group-title="通用网络ipv6",NewTv家庭剧场
+#EXTINF:-1 tvg-id="NewTv家庭剧场" tvg-name="NewTv家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv家庭剧场.png" group-title="NewTV系列",NewTv家庭剧场
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000108/index.m3u8
-#EXTINF:-1 tvg-id="NewTv金牌综艺" tvg-name="NewTv金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NewTv金牌综艺.png" group-title="通用网络ipv6",NewTv金牌综艺
+#EXTINF:-1 tvg-id="NewTv金牌综艺" tvg-name="NewTv金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NewTv金牌综艺.png" group-title="NewTV系列",NewTv金牌综艺
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000112/index.m3u8
-#EXTINF:-1 tvg-id="NewTv怡伴健康" tvg-name="NewTv怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NewTv怡伴健康.png" group-title="通用网络ipv6",NewTv怡伴健康
+#EXTINF:-1 tvg-id="NewTv怡伴健康" tvg-name="NewTv怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NewTv怡伴健康.png" group-title="NewTV系列",NewTv怡伴健康
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000103/index.m3u8
-#EXTINF:-1 tvg-id="NewTv炫舞未来" tvg-name="NewTv炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTv炫舞未来.png" group-title="通用网络ipv6",NewTv炫舞未来
+#EXTINF:-1 tvg-id="NewTv炫舞未来" tvg-name="NewTv炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTv炫舞未来.png" group-title="NewTV系列",NewTv炫舞未来
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000098/index.m3u8
-#EXTINF:-1 tvg-id="NewTv东北热剧" tvg-name="NewTv东北热剧" tvg-logo="https://live.fanmingming.com/tv/NewTv东北热剧.png" group-title="通用网络ipv6",NewTv东北热剧
+#EXTINF:-1 tvg-id="NewTv东北热剧" tvg-name="NewTv东北热剧" tvg-logo="https://live.fanmingming.com/tv/NewTv东北热剧.png" group-title="NewTV系列",NewTv东北热剧
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000092/index.m3u8
-#EXTINF:-1,tvg-id="爱院线" tvg-name="iHOT爱院线" tvg-logo="https://live.fanmingming.com/tv/IHOT爱院线.png" group-title="IHOT",iHOT爱院线
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱科幻" tvg-name="iHOT爱科幻" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科幻.png" group-title="IHOT",iHOT爱科幻
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱浪漫" tvg-name="iHOT爱浪漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱浪漫.png" group-title="IHOT",iHOT爱浪漫
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱喜剧" tvg-name="iHOT爱喜剧" tvg-logo="https://live.fanmingming.com/tv/IHOT爱喜剧.png" group-title="IHOT",iHOT爱喜剧
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱悬疑" tvg-name="iHOT爱悬疑" tvg-logo="https://live.fanmingming.com/tv/IHOT爱悬疑.png" group-title="IHOT",iHOT爱悬疑
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱赛车" tvg-name="iHOT爱赛车" tvg-logo="https://live.fanmingming.com/tv/IHOT爱赛车.png" group-title="IHOT",iHOT爱赛车
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱体育" tvg-name="iHOT爱体育" tvg-logo="https://live.fanmingming.com/tv/IHOT爱体育.png" group-title="IHOT",iHOT爱体育
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱奇谈" tvg-name="iHOT爱奇谈" tvg-logo="https://live.fanmingming.com/tv/IHOT爱奇谈.png" group-title="IHOT",iHOT爱奇谈
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱玩具" tvg-name="iHOT爱玩具" tvg-logo="https://live.fanmingming.com/tv/IHOT爱玩具.png" group-title="IHOT",iHOT爱玩具
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱旅行" tvg-name="iHOT爱旅行" tvg-logo="https://live.fanmingming.com/tv/IHOT爱旅行.png" group-title="IHOT",iHOT爱旅行
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱幼教" tvg-name="iHOT爱幼教" tvg-logo="https://live.fanmingming.com/tv/IHOT爱幼教.png" group-title="IHOT",iHOT爱幼教
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://live.fanmingming.com/tv/IHOT爱谍战.png" group-title="IHOT",iHOT爱谍战
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱历史" tvg-name="iHOT爱历史" tvg-logo="https://live.fanmingming.com/tv/IHOT爱历史.png" group-title="IHOT",iHOT爱历史
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱科学" tvg-name="iHOT爱科学" tvg-logo="https://live.fanmingming.com/tv/IHOT爱科学.png" group-title="IHOT",iHOT爱科学
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://live.fanmingming.com/tv/IHOT爱动漫.png" group-title="IHOT",iHOT爱动漫
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="芒果TV" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",芒果TV1
+http://zby.xjqxz.top/dsdsj1/live.m3u8
+#EXTINF:-1 tvg-name="芒果TV" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",芒果TV2
+http://zby.xjqxz.top/dsdsj2/live.m3u8
+#EXTINF:-1 tvg-name="芒果TV" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",芒果TV3
+http://zby.xjqxz.top/gzdsj1/live.m3u8
+#EXTINF:-1 tvg-name="芒果TV" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",芒果TV4
+http://zby.xjqxz.top/gzdsj2/live.m3u8
+#EXTINF:-1 tvg-name="电视剧1" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧1
+http://zby.xjqxz.top/dsdsj3/live.m3u8
+#EXTINF:-1 tvg-name="电视剧2" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧2
+http://zby.xjqxz.top/gzdsj3/live.m3u8
+#EXTINF:-1 tvg-name="电视剧3" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧3
+http://zby.xjqxz.top/gzdsj4/live.m3u8
+#EXTINF:-1 tvg-name="电视剧4" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧4
+http://zby.xjqxz.top/gzdsj5/live.m3u8
+#EXTINF:-1 tvg-name="电视剧5" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧5
+http://zby.xjqxz.top/kzzypd/live.m3u8
+#EXTINF:-1 tvg-name="电视剧6" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧6
+http://zby.xjqxz.top/dzzypd/live.m3u8
+#EXTINF:-1 tvg-name="电视剧7" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧7
+http://zby.xjqxz.top/dzzypd3/live.m3u8
 #EXTINF:-1 group-title="虎牙轮播",林正英
 http://cfss.cc/cdn/hy/11342421.flv
 #EXTINF:-1 group-title="虎牙轮播",刘德华
