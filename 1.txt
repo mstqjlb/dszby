@@ -287,7 +287,8 @@ CHC动作电影(B),mitv://generationnexxxt.com:19806/3dd6b903d6c84def8c6d24db551
 港澳,#genre#
 凤凰中文,mitv://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f
 凤凰资讯台,mitv://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
-凤凰香港台,mitv://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a676131,mitv://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f
+凤凰香港台,mitv://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
+港台电视31,mitv://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f
 港台电视32,mitv://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f
 HOY TV,mitv://generationnexxxt.com:19806/532d47eca340456a814ba21cc5e68a52
 ﻿翡翠台(备),mitv://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
