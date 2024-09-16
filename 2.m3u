@@ -215,8 +215,10 @@ http://zby.xjqxz.top/kzzypd/live.m3u8
 http://zby.xjqxz.top/dzzypd/live.m3u8
 #EXTINF:-1 tvg-name="电视剧7" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧7
 http://zby.xjqxz.top/dzzypd3/live.m3u8
-#EXTINF:-1 group-title="虎牙轮播",林正英 http://cfss.cc/cdn/hy/11342421.m3u8
-#EXTINF:-1 group-title="虎牙轮播",周星驰 http://cfss.cc/cdn/hy/11342412.m3u8
+#EXTINF:-1 group-title="虎牙轮播",林正英
+ http://cfss.cc/cdn/hy/11342421.m3u8
+#EXTINF:-1 group-title="虎牙轮播",周星驰
+ http://cfss.cc/cdn/hy/11342412.m3u8
 #EXTINF:-1 group-title="虎牙轮播",周星驰粤语
 http://cfss.cc/cdn/hy/11336587.m3u8
 #EXTINF:-1 group-title="虎牙轮播",成龙
