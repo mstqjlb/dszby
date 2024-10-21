@@ -123,11 +123,11 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/1.m3u8
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/1.m3u8
 #EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="求索系列",求索生活
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/1.m3u8
-#EXTINF:-1 tvg-id="NewTv海外剧场" tvg-name="NewTv海外剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv海外剧场.png" group-title="NewTV系列",NewTv海外剧场
+#EXTINF:-1 tvg-id="海外剧场" tvg-name="海外剧场" tvg-logo="https://live.fanmingming.com/tv/海外剧场.png" group-title="NewTV系列",海外剧场
 http://[2409:8087:74d9:21::6]/270000001128/9900000115/index.m3u8
-#EXTINF:-1 tvg-id="NewTv明星大片" tvg-name="NewTv明星大片" tvg-logo="https://live.fanmingming.com/tv/NewTv明星大片.png" group-title="NewTV系列",NewTv明星大片
+#EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://live.fanmingming.com/tv/明星大片.png" group-title="NewTV系列",明星大片
 http://[2409:8087:74d9:21::6]/270000001128/9900000116/index.m3u8
-#EXTINF:-1 tvg-id="NewTv爱情喜剧" tvg-name="NewTv爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NewTv爱情喜剧.png" group-title="NewTV系列",NewTv爱情喜剧
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/爱情喜剧.png" group-title="NewTV系列",NewTv爱情喜剧
 http://[2409:8087:74d9:21::6]/270000001128/9900000104/index.m3u8
 #EXTINF:-1 tvg-id="NewTv超级电视剧" tvg-name="NewTv超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NewTv超级电视剧.png" group-title="NewTV系列",NewTv超级电视剧
 http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8
