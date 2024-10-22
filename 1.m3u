@@ -125,49 +125,49 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/1.m3u8
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/1.m3u8
 #EXTINF:-1 tvg-id="海外剧场" tvg-name="海外剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV海外剧场.png" group-title="NewTV系列",海外剧场
 http://[2409:8087:74d9:21::6]/270000001128/9900000115/index.m3u8
-#EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://live.fanmingming.com/tv/明星大片.png" group-title="NewTV系列",明星大片
+#EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://live.fanmingming.com/tv/NEWTV明星大片.png" group-title="NewTV系列",明星大片
 http://[2409:8087:74d9:21::6]/270000001128/9900000116/index.m3u8
-#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/爱情喜剧.png" group-title="NewTV系列",NewTv爱情喜剧
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV爱情喜剧.png" group-title="NewTV系列",爱情喜剧
 http://[2409:8087:74d9:21::6]/270000001128/9900000104/index.m3u8
-#EXTINF:-1 tvg-id="NewTv超级电视剧" tvg-name="NewTv超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NewTv超级电视剧.png" group-title="NewTV系列",NewTv超级电视剧
+#EXTINF:-1 tvg-id="NewTv超级电视剧" tvg-name="NewTv超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="NewTV系列",超级电视剧
 http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8
-#EXTINF:-1 tvg-id="NewTv超级电影" tvg-name="NewTv超级电影" tvg-logo="https://live.fanmingming.com/tv/NewTv超级电影.png" group-title="NewTV系列",NewTv超级电影
+#EXTINF:-1 tvg-id="NewTv超级电影" tvg-name="NewTv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="NewTV系列",超级电影
 http://[2409:8087:74d9:21::6]/270000001128/9900000021/index.m3u8
-#EXTINF:-1 tvg-id="NewTv超级综艺" tvg-name="NewTv超级综艺" tvg-logo="https://live.fanmingming.com/tv/NewTv超级综艺.png" group-title="NewTV系列",NewTv超级综艺
+#EXTINF:-1 tvg-id="NewTv超级综艺" tvg-name="NewTv超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV系列",超级综艺
 http://[2409:8087:74d9:21::6]/270000001128/9900000019/index.m3u8
-#EXTINF:-1 tvg-id="NewTv潮妈辣婆" tvg-name="NewTv潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/NewTv潮妈辣婆.png" group-title="NewTV系列",NewTv潮妈辣婆
+#EXTINF:-1 tvg-id="NewTv潮妈辣婆" tvg-name="NewTv潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/NEWTV潮妈辣婆.png" group-title="NewTV系列",潮妈辣婆
 http://[2409:8087:74d9:21::6]/270000001128/9900000099/index.m3u8
-#EXTINF:-1 tvg-id="NewTv东北热剧" tvg-name="NewTv东北热剧" tvg-logo="https://live.fanmingming.com/tv/NewTv东北热剧.png" group-title="NewTV系列",NewTv东北热剧
+#EXTINF:-1 tvg-id="NewTv东北热剧" tvg-name="NewTv东北热剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV东北热剧.png" group-title="NewTV系列",东北热剧
 http://[2409:8087:74d9:21::6]/270000001128/9900000092/index.m3u8
-#EXTINF:-1 tvg-id="NewTv动作电影" tvg-name="NewTv动作电影" tvg-logo="https://live.fanmingming.com/tv/NewTv动作电影.png" group-title="NewTV系列",NewTv动作电影
+#EXTINF:-1 tvg-id="NewTv动作电影" tvg-name="NewTv动作电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV动作电影.png" group-title="NewTV系列",动作电影
 http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8
-#EXTINF:-1 tvg-id="NewTv古装剧场" tvg-name="NewTv古装剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv古装剧场.png" group-title="NewTV系列",NewTv古装剧场
+#EXTINF:-1 tvg-id="NewTv古装剧场" tvg-name="NewTv古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png" group-title="NewTV系列",古装剧场
 http://[2409:8087:74d9:21::6]/270000001128/9900000105/index.m3u8
-#EXTINF:-1 tvg-id="NewTv欢乐剧场" tvg-name="NewTv欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv欢乐剧场.png" group-title="NewTV系列",NewTv欢乐剧场
+#EXTINF:-1 tvg-id="NewTv欢乐剧场" tvg-name="NewTv欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png" group-title="NewTV系列",欢乐剧场
 http://[2409:8087:74d9:21::6]/270000001128/9900000091/index.m3u8
-#EXTINF:-1 tvg-id="NewTv家庭剧场" tvg-name="NewTv家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv家庭剧场.png" group-title="NewTV系列",NewTv家庭剧场
+#EXTINF:-1 tvg-id="NewTv家庭剧场" tvg-name="NewTv家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV家庭剧场.png" group-title="NewTV系列",家庭剧场
 http://[2409:8087:74d9:21::6]/270000001128/9900000108/index.m3u8
-#EXTINF:-1 tvg-id="NewTv金牌综艺" tvg-name="NewTv金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NewTv金牌综艺.png" group-title="NewTV系列",NewTv金牌综艺
+#EXTINF:-1 tvg-id="NewTv金牌综艺" tvg-name="NewTv金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="NewTV系列",金牌综艺
 http://[2409:8087:74d9:21::6]/270000001128/9900000112/index.m3u8
-#EXTINF:-1 tvg-id="NewTv惊悚悬疑" tvg-name="NewTv惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NewTv惊悚悬疑.png" group-title="NewTV系列",NewTv惊悚悬疑
+#EXTINF:-1 tvg-id="NewTv惊悚悬疑" tvg-name="NewTv惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png" group-title="NewTV系列",惊悚悬疑
 http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8
-#EXTINF:-1 tvg-id="NewTv精品大剧" tvg-name="NewTv精品大剧" tvg-logo="https://live.fanmingming.com/tv/NewTv精品大剧.png" group-title="NewTV系列",NewTv精品大剧
+#EXTINF:-1 tvg-id="NewTv精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://live.fanmingming.com/tv/NewTv精品大剧.png" group-title="NewTV系列",精品大剧
 http://[2409:8087:74d9:21::6]/270000001128/9900000100/index.m3u8
-#EXTINF:-1 tvg-id="NewTv精品纪录" tvg-name="NewTv精品纪录" tvg-logo="https://live.fanmingming.com/tv/NewTv精品纪录.png" group-title="NewTV系列",NewTv精品纪录
+#EXTINF:-1 tvg-id="NewTv精品纪录" tvg-name="NewTv精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="NewTV系列",精品纪录
 http://[2409:8087:74d9:21::6]/270000001128/9900000109/index.m3u8
-#EXTINF:-1 tvg-id="NewTv精品萌宠" tvg-name="NewTv精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NewTv精品萌宠.png" group-title="NewTV系列",NewTv精品萌宠
+#EXTINF:-1 tvg-id="NewTv精品萌宠" tvg-name="NewTv精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品萌宠.png" group-title="NewTV系列",精品萌宠
 http://[2409:8087:74d9:21::6]/270000001128/9900000122/index.m3u8
-#EXTINF:-1 tvg-id="NewTv军旅剧场" tvg-name="NewTv军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NewTv军旅剧场.png" group-title="NewTV系列",NewTv军旅剧场
+#EXTINF:-1 tvg-id="NewTv军旅剧场" tvg-name="NewTv军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png" group-title="NewTV系列",军旅剧场
 http://[2409:8087:74d9:21::6]/270000001128/9900000107/index.m3u8
-#EXTINF:-1 tvg-id="NewTv军事评论" tvg-name="NewTv军事评论" tvg-logo="https://live.fanmingming.com/tv/NewTv军事评论.png" group-title="NewTV系列",NewTv军事评论
+#EXTINF:-1 tvg-id="NewTv军事评论" tvg-name="NewTv军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png" group-title="NewTV系列",军事评论
 http://[2409:8087:74d9:21::6]/270000001128/9900000110/index.m3u8
-#EXTINF:-1 tvg-id="NewTv农业致富" tvg-name="NewTv农业致富" tvg-logo="https://live.fanmingming.com/tv/NewTv农业致富.png" group-title="NewTV系列",NewTv农业致富
+#EXTINF:-1 tvg-id="NewTv农业致富" tvg-name="NewTv农业致富" tvg-logo="https://live.fanmingming.com/tv/NEWTV农业致富.png" group-title="NewTV系列",农业致富
 http://[2409:8087:74d9:21::6]/270000001128/9900000111/index.m3u8
-#EXTINF:-1 tvg-id="NewTv炫舞未来" tvg-name="NewTv炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NewTv炫舞未来.png" group-title="NewTV系列",NewTv炫舞未来
+#EXTINF:-1 tvg-id="NewTv炫舞未来" tvg-name="NewTv炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NEWTV炫舞未来.png" group-title="NewTV系列",炫舞未来
 http://[2409:8087:74d9:21::6]/270000001128/9900000098/index.m3u8
-#EXTINF:-1 tvg-id="NewTv怡伴健康" tvg-name="NewTv怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NewTv怡伴健康.png" group-title="NewTV系列",NewTv怡伴健康
+#EXTINF:-1 tvg-id="NewTv怡伴健康" tvg-name="NewTv怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NEWTV怡伴健康.png" group-title="NewTV系列",怡伴健康
 http://[2409:8087:74d9:21::6]/270000001128/9900000103/index.m3u8
-#EXTINF:-1 tvg-id="NewTv中国功夫" tvg-name="NewTv中国功夫" tvg-logo="https://live.fanmingming.com/tv/NewTv中国功夫.png" group-title="NewTV系列",NewTv中国功夫
+#EXTINF:-1 tvg-id="NewTv中国功夫" tvg-name="NewTv中国功夫" tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="NewTV系列",中国功夫
 http://[2409:8087:74d9:21::6]/270000001128/9900000101/index.m3u8
 #EXTINF:-1 tvg-name="芒果TV" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",芒果TV1
 http://zby.xjqxz.top/dsdsj1/live.m3u8
