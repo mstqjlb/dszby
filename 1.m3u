@@ -169,28 +169,6 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000098/index.m3u8
 http://[2409:8087:74d9:21::6]/270000001128/9900000103/index.m3u8
 #EXTINF:-1 tvg-id="NewTv中国功夫" tvg-name="NewTv中国功夫" tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="NewTV系列",中国功夫
 http://[2409:8087:74d9:21::6]/270000001128/9900000101/index.m3u8
-#EXTINF:-1 tvg-name="芒果TV" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",芒果TV1
-http://zby.xjqxz.top/dsdsj1/live.m3u8
-#EXTINF:-1 tvg-name="芒果TV" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",芒果TV2
-http://zby.xjqxz.top/dsdsj2/live.m3u8
-#EXTINF:-1 tvg-name="芒果TV" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",芒果TV3
-http://zby.xjqxz.top/gzdsj1/live.m3u8
-#EXTINF:-1 tvg-name="芒果TV" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",芒果TV4
-http://zby.xjqxz.top/gzdsj2/live.m3u8
-#EXTINF:-1 tvg-name="电视剧1" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧1
-http://zby.xjqxz.top/dsdsj3/live.m3u8
-#EXTINF:-1 tvg-name="电视剧2" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧2
-http://zby.xjqxz.top/gzdsj3/live.m3u8
-#EXTINF:-1 tvg-name="电视剧3" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧3
-http://zby.xjqxz.top/gzdsj4/live.m3u8
-#EXTINF:-1 tvg-name="电视剧4" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧4
-http://zby.xjqxz.top/gzdsj5/live.m3u8
-#EXTINF:-1 tvg-name="电视剧5" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧5
-http://zby.xjqxz.top/kzzypd/live.m3u8
-#EXTINF:-1 tvg-name="电视剧6" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧6
-http://zby.xjqxz.top/dzzypd/live.m3u8
-#EXTINF:-1 tvg-name="电视剧7" tvg-logo="https://gitee.com/buzhenglin/live/raw/master/TVlog/芒果tv.png" group-title="芒果专区",电视剧7
-http://zby.xjqxz.top/dzzypd3/live.m3u8
 #EXTINF:-1 group-title="虎牙轮播",林正英
 http://cfss.cc/cdn/hy/11342421.flv
 #EXTINF:-1 group-title="虎牙轮播",刘德华
